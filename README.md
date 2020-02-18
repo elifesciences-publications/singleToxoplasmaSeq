@@ -2,7 +2,7 @@
 
 About
 ---------------------
-This respository includes scripts and jupyter notebooks used to re-generate analysis results of ["A single-parasite transcriptional atlas of Toxoplasma gondii reveals novel control of antigen expression" (2020)](https://elifesciences.org/articles/54129).
+This respository includes scripts and jupyter notebooks used to re-generate analysis results of Xue et al., "A single-parasite transcriptional atlas of Toxoplasma gondii reveals novel control of antigen expression" eLife, 2020. https://elifesciences.org/articles/54129
 
 <img src="./images/fig1.png" title="scToxoSeq" width="800"/>
 
